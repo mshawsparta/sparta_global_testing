@@ -1,0 +1,17 @@
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\CalculatorTester.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\bin\Debug\netcoreapp2.1\CalculatorTester.pdb
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
