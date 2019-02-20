@@ -1,0 +1,9 @@
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\bin\Debug\netstandard2.0\CalculatorTester.deps.json
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\bin\Debug\netstandard2.0\CalculatorTester.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\bin\Debug\netstandard2.0\CalculatorTester.pdb
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\obj\Debug\netstandard2.0\CalculatorTester.csproj.CoreCompileInputs.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\obj\Debug\netstandard2.0\CalculatorTester.AssemblyInfoInputs.cache
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\obj\Debug\netstandard2.0\CalculatorTester.AssemblyInfo.cs
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\obj\Debug\netstandard2.0\CalculatorTester.dll
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\obj\Debug\netstandard2.0\CalculatorTester.pdb
+C:\Users\tech-w100a\Desktop\Engineering26\week6\CalculatorTester\CalculatorTester\obj\Debug\netstandard2.0\CalculatorTester.csprojAssemblyReference.cache
